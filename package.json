@@ -12,7 +12,7 @@
   "main": "dist/webpack-numbers.js",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "webpack": "^4.43.0"
   }
 }
